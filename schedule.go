@@ -3,7 +3,7 @@ package cron
 import (
 	"time"
 
-	"github.com/gdgvda/cron/internal/matcher"
+	"github.com/etisserant/cron/internal/matcher"
 )
 
 // Schedule describes a job's duty cycle.

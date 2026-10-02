@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gdgvda/cron/internal/matcher"
+	"github.com/etisserant/cron/internal/matcher"
 )
 
 var hourToInt = map[string]uint{}

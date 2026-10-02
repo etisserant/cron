@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gdgvda/cron/internal/parser"
+	"github.com/etisserant/cron/internal/parser"
 )
 
 // Configuration options for creating a parser. Most options specify which

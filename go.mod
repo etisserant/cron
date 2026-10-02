@@ -1,3 +1,3 @@
-module github.com/gdgvda/cron
+module github.com/etisserant/cron
 
 go 1.21
